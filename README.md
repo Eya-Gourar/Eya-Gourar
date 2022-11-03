@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eya-Gourar
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning blockchain technology & cyber security. 
+- 🌱 I’m currently learning everything AI
 - 💞️ I’m looking to collaborate on ML & DL projects.
 - 📫 How to reach me through my email gourar.e.y.a@gmail.com 
 
