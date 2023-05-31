@@ -7,7 +7,7 @@
 
 - 🌍 I'm currently based **in Paris, France.**
 
-- 🌱 I’m learning **everything theorotical in 5G and 6G communication**
+- 🌱 I’m trying to deepen my knowledge **in everything theoretical and practical in 5G and 6G communication systems.**
 
 - 🔭 I’m currently working **on my end of study project.**
 
