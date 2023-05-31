@@ -7,11 +7,11 @@
 
 - 🌍 I'm currently based **in Paris, France.**
 
-- 🌱 I’m learning **to write clean code and I'm exploring the best practices of software development.**
+- 🌱 I’m learning **everything theorotical in 5G and 6G communication**
 
 - 🔭 I’m currently working **on my end of study project.**
 
-- 🤝 I'm open to collaborating **on Radio communication related projects.**
+- 🤝 I'm open to collaborating **on wireless communication related projects.**
 
 - 📫 How to reach me : ***eya.gourar@supcom.tn***
 
