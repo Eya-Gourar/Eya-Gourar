@@ -3,17 +3,13 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Nice+To+Meet+You+...;Welcome+To+My+GitHub+Profile...&center=true"></a>
 </p>
 
-<h3 align="center">A passionate Telecommunication engineering student from Tunisia who's looking for new challenges</h3>
+<h3 align="center">A passionate Telecommunication engineer from Tunisia who's looking for knowledge</h3>
 
-- 🌍 I'm currently based **in Paris, France.**
+- 🌍 I'm currently based **in Lille, France.**
 
-- 🌱 I’m trying to deepen my knowledge **in everything theoretical and practical in 5G and 6G communication systems.**
+- 🌱 I’m a first year PhD student **in IMT NOrd Europe.**
 
-- 🔭 I’m currently working **on my end of study project.**
-
-- 🤝 I'm open to collaborating **on wireless communication related projects.**
-
-- 📫 How to reach me : ***eya.gourar@supcom.tn***
+- 📫 How to reach me : ***eya.gourar@imt-nord-europe.fr***
 
 
 </div>
