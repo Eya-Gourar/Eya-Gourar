@@ -3,7 +3,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Nice+To+Meet+You+...;Welcome+To+My+GitHub+Profile...&center=true"></a>
 </p>
 
-<h3 align="center">A passionate Telecommunication engineer from Tunisia who's looking for knowledge</h3>
+<h3 align="center">A passionate Telecommunication engineer who's looking for knowledge</h3>
 
 - 🌍 I'm currently based **in Lille, France.**
 
