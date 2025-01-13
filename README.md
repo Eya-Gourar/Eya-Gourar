@@ -7,7 +7,7 @@
 
 - 🌍 I'm currently based **in Lille, France.**
 
-- 🌱 I’m a first year PhD student **in IMT NOrd Europe.**
+- 🌱 I’m a second year PhD student **in IMT NOrd Europe.**
 
 - 📫 How to reach me : ***eya.gourar@imt-nord-europe.fr***
 
